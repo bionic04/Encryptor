@@ -1,0 +1,30 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/eye_icon_active.png</file>
+    <file>icons/data_protect_icon.png</file>
+    <file>icons/eye_icon.png</file>
+    <file>icons/clear_icon.png</file>
+    <file>icons/learn_icon.png</file>
+    <file>icons/reset_icon.png</file>
+    <file>icons/key_active.png</file>
+    <file>icons/account-logout.png</file>
+    <file>icons/account_active.png</file>
+    <file>icons/account_active.png</file>
+    <file>icons/icon_delete.png</file>
+    <file>icons/icon_settings_active.png</file>
+    <file>icons/lock-unlocked-active.png</file>
+    <file>icons/lock-locked-active.png</file>
+    <file>icons/account.png</file>
+    <file>icons/search.png</file>
+    <file>icons/arrow-left.png</file>
+    <file>icons/folder.png</file>
+    <file>icons/icon_settings.png</file>
+    <file>icons/folder-open.png</file>
+    <file>icons/key.png</file>
+    <file>icons/lock-locked.png</file>
+    <file>icons/lock-unlocked.png</file>
+    <file>icons/arch_logo.png</file>
+    <file>icons/icon_close.png</file>
+    <file>icons/icon_menu.png</file>
+  </qresource>
+</RCC>

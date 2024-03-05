@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="pictures">
+    <file>pictures/icon_close.png</file>
+    <file>pictures/arrow-left.png</file>
+    <file>pictures/rightBG2.png</file>
+    <file>pictures/signLeftBG.png</file>
+    <file>pictures/signRightBG.png</file>
+    <file>pictures/test2.png</file>
+  </qresource>
+</RCC>
